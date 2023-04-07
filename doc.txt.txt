@@ -1,0 +1,14 @@
+links
+*****************************************
+(user)
+onlineShop/shop.php (show all produts in the shop)
+
+
+*****************************************
+(admin) 
+/onlineShop (add anew product)
+
+/onlineShop/products.php (show all products [adit and delete for all of them])
+
+
+
